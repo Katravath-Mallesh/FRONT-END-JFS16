@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Title Name</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Heading Elements:Heading One</h1>
+        <h2>Heading Two</h2>
+        <h3>Heading Three</h3>
+        <h4>Heading Four</h4>
+        <h5>Heading Five</h5>
+        <h6>Heading Six</h6>
+        <p>This is a paragraph</p>
+        <div>This is division element behaves as a container</div>
+        <span>Span: Span is a inline element</span>
+        <br/>
+        <hr/>
+        <button>click me</button>
+        <img src="/photos/image.png" alt="">
+        <header>Header sematic elements</header>
+        <section>Section sementic element</section>
+        <footer>footer semantic element</footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br/> Reprehenderit, 
+            error quibusdam in iste ipsa quidem facere pariatur repudiandae ad
+             earum nisi officiis dicta molestias eaque. <br/>Fugit libero iusto quisquam magni.</p>
+    </div>
+</body>
+</html>
